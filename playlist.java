@@ -1,6 +1,6 @@
 import java.util.*;
-import java.lang.*;
-import java.io.*;
+//import java.lang.*;
+//import java.io.*;
 
 class playlist
 {
@@ -16,6 +16,5 @@ class playlist
 		    System.out.println(n/(3*x));
 		}
         sc.close();
-
 	}
 }
